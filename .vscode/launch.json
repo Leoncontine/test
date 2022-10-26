@@ -5,6 +5,13 @@
       "type": "java",
       "name": "Launch CSP20220601",
       "request": "launch",
+      "mainClass": "CSP20220601",
+      "projectName": "everyday-learnning_7e67b45e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CSP20220601",
+      "request": "launch",
       "mainClass": "Algorithm.CSP.CSP20220601",
       "projectName": "everyday-learnning_7e67b45e"
     },

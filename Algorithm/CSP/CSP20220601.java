@@ -1,3 +1,4 @@
+package Algorithm.CSP;
 import java.util.*;
 
 public class CSP20220601 {
